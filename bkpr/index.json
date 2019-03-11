@@ -24,6 +24,22 @@
     ],
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "platforms-katacoda.jsonnet",
+          "target": "~/"
+        },
+        {
+          "file": "kubeprod-manifest.jsonnet",
+          "target": "~/"
+        },
+        {
+          "file": "kubeprod-autogen.json",
+          "target": "~/"
+        }
+      ]
     }
   },
   "environment": {

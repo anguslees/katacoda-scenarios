@@ -1,3 +1,6 @@
+BKPR assumes you have a new empty cluster from one of the supported
+platforms.
+
 #### Fetch the `kubeprod` installer:
 
 `
